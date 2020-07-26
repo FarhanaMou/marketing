@@ -149,5 +149,30 @@ form{
 	border-radius: 10px;
 }
 /* explore part end */
+/* action part start */
+.action{
+    padding: 50px 0px;
+    background-color: #32383d;
+}
+.action-text h2 {
+	color: #fff;
+	font-size: 32px;
+	font-weight: 300;
+}
+.btn-coustom-3{
+    color: #fff;
+    font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 2px;
+	border: 2px solid;
+	padding: 8px 20px;
+	border-radius: 10px;
+}
+.btn-coustom-3:hover{
+    background-color: #fff;
+    color: #32383d;
+}
+/* action part end */
 /* font-family: 'Open Sans', sans-serif;
 font-family: 'Raleway', sans-serif; */
