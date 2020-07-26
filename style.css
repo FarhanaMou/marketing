@@ -174,5 +174,44 @@ form{
     color: #32383d;
 }
 /* action part end */
+/* slider part start */
+.slider{
+    padding: 50px 0px;
+    background-color: #09bbdb;
+}
+.slider-item i{
+	font-size: 45px;
+	opacity: 0.5;
+}
+.slider-item p{
+	font-size: 22px;
+	padding: 45px 36px;
+	color: #fff;
+	font-style: italic;
+}
+.font-style{
+    color: #117486;
+}
+.carousel-indicators li {
+	transform: translate;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: transparent;
+	border: 2px solid #67e1f7;
+}
+.carousel-indicators .active{
+    background-color: #67e1f7;
+}
+/* slider part end */
+/* footer-part start */
+.footer-part{
+    padding: 50px 0px;
+}
+.footer-part h5 {
+	color: #828282;
+	font-size: 15px;
+}
+/* footer-part end */
 /* font-family: 'Open Sans', sans-serif;
 font-family: 'Raleway', sans-serif; */
