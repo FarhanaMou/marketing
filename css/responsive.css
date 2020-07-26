@@ -1,0 +1,233 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {
+
+     /* banner part start */
+     .banner-content h1 {
+         font-size: 30px;
+     }
+
+     .banner-content p {
+         font-size: 16px;
+         padding: 26px 60px;
+     }
+
+     form {
+         padding: 13px 20px;
+     }
+
+     .form-custom {
+         padding: 18px 10px;
+         border-radius: 0px;
+         width: 95%;
+         margin-left: 8px;
+         font-size: 8px;
+     }
+
+     .btn-custom {
+         padding: 12px 30px;
+         font-size: 8px;
+         width: 92%;
+     }
+
+     /* banner part end */
+     /* service part start */
+     .service {
+         padding: 55px 0px;
+     }
+
+     .common-service i {
+         font-size: 45px;
+     }
+
+     .common-service h3 {
+         font-size: 25px;
+         padding: 30px 0px 14px 0px;
+     }
+
+     .common-service p {
+         font-size: 14px;
+         padding: 0px 74px;
+     }
+
+     /* service part end */
+        /* .explore part start */
+        .explore {
+            padding: 60px 0px;
+        }
+   
+        .explore-content h1 {
+            font-size: 23px;
+        }
+   
+   
+        .explore-content p {
+            font-size: 12px;
+            padding: 13px 60px;
+            line-height: 22px;
+        }
+   
+        .btn-coustom-2 {
+            font-size: 15px;
+            padding: 8px 14px;
+        }
+   
+        /* .explore part end */
+ }
+
+ /* Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) and (max-width: 767.98px) {
+
+     /* banner part start */
+     .banner-content h1 {
+         font-size: 30px;
+     }
+
+     .banner-content p {
+         font-size: 16px;
+         padding: 26px 60px;
+     }
+
+     form {
+         padding: 13px 20px;
+     }
+
+     .form-custom {
+         padding: 18px 10px;
+         border-radius: 0px;
+         width: 95%;
+         margin-left: 8px;
+         font-size: 8px;
+     }
+
+     .btn-custom {
+         padding: 12px 30px;
+         font-size: 8px;
+         width: 92%;
+     }
+
+     /* banner part end */
+     /* service part start */
+     .service {
+         padding: 55px 0px;
+     }
+
+     .common-service i {
+         font-size: 45px;
+     }
+
+     .common-service h3 {
+         font-size: 25px;
+         padding: 30px 0px 14px 0px;
+     }
+
+     .common-service p {
+         font-size: 14px;
+         padding: 0px 74px;
+     }
+
+     /* service part end */
+     /* .explore part start */
+     .explore {
+         padding: 60px 0px;
+     }
+
+     .explore-content h1 {
+         font-size: 23px;
+     }
+
+
+     .explore-content p {
+         font-size: 12px;
+         padding: 20px 20px;
+         line-height: 25px;
+     }
+
+     .btn-coustom-2 {
+         font-size: 15px;
+         padding: 8px 14px;
+     }
+
+     /* .explore part end */
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+ @media (min-width: 768px) and (max-width: 991.98px) {
+
+     /* banner part start */
+     .banner-content h1 {
+         font-size: 40px;
+     }
+
+     .banner-content p {
+         font-size: 14px;
+         padding: 30px 60px;
+     }
+
+     form {
+         padding: 12px 23px;
+     }
+
+     .form-custom {
+         padding: 20px;
+         font-size: 9px;
+         width: 93%;
+     }
+
+     .btn-custom {
+         padding: 11px 39px;
+         font-size: 12px;
+         width: 93%;
+     }
+
+     .form-desing p {
+         padding: 20px 93px;
+         font-size: 7px;
+     }
+
+     /* banner part end */
+     /* service part start */
+     .common-service h3 {
+         font-size: 16px;
+         padding: 30px 0px 14px 0px;
+     }
+
+     .common-service p {
+         font-size: 12px;
+     }
+
+     /* service part end*/
+     /* .explore part start */
+     .explore-content h1 {
+         font-size: 32px;
+     }
+
+     .explore-content p {
+         padding: 30px 20px;
+     }
+
+     /* .explore part end */
+
+ }
+
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+
+     /* banner part start */
+     .btn-custom {
+         padding: 12px 70px;
+         font-size: 13px;
+     }
+
+     /* banner part end */
+     /* .explore part start */
+     .explore-content h1 {
+         font-size: 43px;
+     }
+
+     /* .explore part end */
+ }
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) {
+     ...
+ }
