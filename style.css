@@ -109,7 +109,8 @@ form{
     padding: 100px 0px;
 }
 .common-service i {
-	font-size: 55px;
+    font-size: 55px;
+    cursor: pointer;
 }
 .common-service h3{
 	font-size: 25px;
@@ -148,6 +149,10 @@ form{
 	padding: 10px 20px;
 	border-radius: 10px;
 }
+.btn-coustom-2:hover{
+    color: #fff;
+    background-color: #7f1a38;
+}
 /* explore part end */
 /* action part start */
 .action{
@@ -181,7 +186,8 @@ form{
 }
 .slider-item i{
 	font-size: 45px;
-	opacity: 0.5;
+    opacity: 0.5;
+    cursor: pointer;
 }
 .slider-item p{
 	font-size: 22px;
@@ -210,7 +216,8 @@ form{
 }
 .footer-part h5 {
 	color: #828282;
-	font-size: 15px;
+    font-size: 15px;
+    cursor: pointer;
 }
 /* footer-part end */
 /* font-family: 'Open Sans', sans-serif;
